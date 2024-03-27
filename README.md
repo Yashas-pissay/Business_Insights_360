@@ -10,6 +10,10 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 Explore the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMzk1YjA1MjEtNDg5Ni00ZTY2LWExMTktZTNlYzNjOTA2NGIyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
 
+## NovyPro Dashboard
+
+Explore the live dashboard [here](https://www.novypro.com/project/business-insights-360-119)
+
 ## Tech stacks
 
 - SQL
