@@ -12,7 +12,7 @@ Explore the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMzk1YjA
 
 ## NovyPro Dashboard
 
-Explore the live dashboard [here](https://www.novypro.com/project/business-insights-360-119)
+Explore the live dashboard [here](https://www.novypro.com/project/business-insights-360-power-bi-34)
 
 ## Tech stacks
 
